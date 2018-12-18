@@ -24,29 +24,29 @@ For each test case, output in 3 lines. The first line gives the name and ID of t
     Joe M Math990112 89
     Mike M CS991301 100
     Mary F EE990830 95
-    
+
 
 ### Sample Output 1:
 
     Mary EE990830
     Joe Math990112
     6
-    
+
 
 ### Sample Input 2:
 
     1
     Jean M AA980920 60
-    
+
 
 ### Sample Output 2:
 
     Absent
     Jean AA980920
     NA
-    
 
-    
+
+​    
     #include <stdio.h>
     #include <math.h>
     #include <string.h>

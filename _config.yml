@@ -142,7 +142,7 @@ theme: Anisina
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: http://github.com/ZlHou/zlhou.github.io.git
+  repo: https://github.com/ZlHou/zlhou.github.io.git
   branch: master
 
 

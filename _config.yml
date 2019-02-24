@@ -54,7 +54,7 @@ use_livere:
 # Valine comment system https://valine.js.org
 valine: 
   enable: true
-  appid:  00KHJvnjhM3SThcWYfk7eyRt-gzGzoHsz#Leancloud应用的appId
+  appid:  00KHJvnjhM3SThcWYfk7eyRt-gzGzoHsz #Leancloud应用的appId
   appkey: don97GIa3v5euMj6V3znPih8 #Leancloud应用的appKey
   verify: false #验证码
   notify: true #评论回复提醒
